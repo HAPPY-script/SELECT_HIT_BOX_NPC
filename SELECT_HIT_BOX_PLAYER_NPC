@@ -61,7 +61,7 @@ NormalEscapeButton.MouseButton1Click:Connect(function()
         Text = "This will help you increase your player's hitbox.";
         Duration = 5;
     })
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/HIT_BOX/refs/heads/main/HIT_BOX"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/Hitbox_player/refs/heads/main/Hitbox_player"))()
 end)
 
 AdvancedEscapeButton.MouseButton1Click:Connect(function()
